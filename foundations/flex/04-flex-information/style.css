@@ -30,11 +30,14 @@ img {
 .plants {
   display: flex;
   margin: 32px;
+  justify-content: space-between;
+  
 }
 
 .plant-item {
   display: flex;
   flex-flow: column wrap;
+  margin: 32px 52px 32px 52px;
 }
 
 .text {
